@@ -1,0 +1,30 @@
+C:\Users\debri\Desktop\Azure 900 Final Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\debri\Desktop\Azure 900 Final Project\bin\Debug\net8.0\appsettings.json
+C:\Users\debri\Desktop\Azure 900 Final Project\bin\Debug\net8.0\Azure 900 Final Project.staticwebassets.runtime.json
+C:\Users\debri\Desktop\Azure 900 Final Project\bin\Debug\net8.0\Azure 900 Final Project.exe
+C:\Users\debri\Desktop\Azure 900 Final Project\bin\Debug\net8.0\Azure 900 Final Project.deps.json
+C:\Users\debri\Desktop\Azure 900 Final Project\bin\Debug\net8.0\Azure 900 Final Project.runtimeconfig.json
+C:\Users\debri\Desktop\Azure 900 Final Project\bin\Debug\net8.0\Azure 900 Final Project.dll
+C:\Users\debri\Desktop\Azure 900 Final Project\bin\Debug\net8.0\Azure 900 Final Project.pdb
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.AssemblyInfoInputs.cache
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.AssemblyInfo.cs
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.csproj.CoreCompileInputs.cache
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.RazorAssemblyInfo.cache
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.RazorAssemblyInfo.cs
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\staticwebassets\msbuild.Azure 900 Final Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Azure 900 Final Project.props
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Azure 900 Final Project.props
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Azure 900 Final Project.props
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\scopedcss\bundle\Azure 900 Final Project.styles.css
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\scopedcss\projectbundle\Azure 900 Final Project.bundle.scp.css
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.dll
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\refint\Azure 900 Final Project.dll
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.pdb
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.genruntimeconfig.cache
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\ref\Azure 900 Final Project.dll
