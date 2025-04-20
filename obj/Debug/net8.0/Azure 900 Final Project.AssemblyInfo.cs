@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Azure 900 Final Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6f8eef6086e0f1d4b41f6aa14e3ec575434a0a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85169e75e70d869adacefb54e2192c93157fefe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Azure 900 Final Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Azure 900 Final Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
