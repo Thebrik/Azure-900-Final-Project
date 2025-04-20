@@ -28,3 +28,4 @@ C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\refint\Azure 900
 C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.pdb
 C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.genruntimeconfig.cache
 C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\ref\Azure 900 Final Project.dll
+C:\Users\debri\Desktop\Azure 900 Final Project\obj\Debug\net8.0\Azure 900 Final Project.sourcelink.json
