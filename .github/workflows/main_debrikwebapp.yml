@@ -55,4 +55,4 @@ jobs:
           app-name: 'debrikwebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_782E8B64660A4F4487E38C039C372A0B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_04BF488701594CF19082726D52F437B2 }}
